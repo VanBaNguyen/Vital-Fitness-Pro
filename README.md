@@ -1,6 +1,6 @@
-# Vital Fitness Pro
+# Fitness & Macronutrient Monitor Pro
 
-Vital Fitness Pro is a **SwiftUI** app for tracking macronutrient intake and managing workouts. It helps users monitor daily nutrition, create custom workouts, and track progress.
+Fitness & Macronutrient Monitor Pro is a **SwiftUI** app for tracking macronutrient intake and managing workouts. It helps users monitor daily nutrition, create custom workouts, and track progress.
 
 ## Features
 ### Macronutrient Tracking
